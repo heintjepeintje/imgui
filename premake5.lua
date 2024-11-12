@@ -14,6 +14,7 @@ project "ImGui"
 	}
 
 	includedirs {
+		"./",
 		"./backends"
 	}
 	
